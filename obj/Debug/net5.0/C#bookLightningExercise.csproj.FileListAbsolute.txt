@@ -1,0 +1,16 @@
+C:\Users\16158\workspace\C#bookLightningExercise\obj\Debug\net5.0\C#bookLightningExercise.csproj.AssemblyReference.cache
+C:\Users\16158\workspace\C#bookLightningExercise\obj\Debug\net5.0\C#bookLightningExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16158\workspace\C#bookLightningExercise\obj\Debug\net5.0\C#bookLightningExercise.AssemblyInfoInputs.cache
+C:\Users\16158\workspace\C#bookLightningExercise\obj\Debug\net5.0\C#bookLightningExercise.AssemblyInfo.cs
+C:\Users\16158\workspace\C#bookLightningExercise\obj\Debug\net5.0\C#bookLightningExercise.csproj.CoreCompileInputs.cache
+C:\Users\16158\workspace\C#bookLightningExercise\bin\Debug\net5.0\C#bookLightningExercise.exe
+C:\Users\16158\workspace\C#bookLightningExercise\bin\Debug\net5.0\C#bookLightningExercise.deps.json
+C:\Users\16158\workspace\C#bookLightningExercise\bin\Debug\net5.0\C#bookLightningExercise.runtimeconfig.json
+C:\Users\16158\workspace\C#bookLightningExercise\bin\Debug\net5.0\C#bookLightningExercise.runtimeconfig.dev.json
+C:\Users\16158\workspace\C#bookLightningExercise\bin\Debug\net5.0\C#bookLightningExercise.dll
+C:\Users\16158\workspace\C#bookLightningExercise\bin\Debug\net5.0\C#bookLightningExercise.pdb
+C:\Users\16158\workspace\C#bookLightningExercise\obj\Debug\net5.0\C#bookLightningExercise.dll
+C:\Users\16158\workspace\C#bookLightningExercise\obj\Debug\net5.0\refint\C#bookLightningExercise.dll
+C:\Users\16158\workspace\C#bookLightningExercise\obj\Debug\net5.0\C#bookLightningExercise.pdb
+C:\Users\16158\workspace\C#bookLightningExercise\obj\Debug\net5.0\C#bookLightningExercise.genruntimeconfig.cache
+C:\Users\16158\workspace\C#bookLightningExercise\obj\Debug\net5.0\ref\C#bookLightningExercise.dll
